@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bea20b0d.css",
+    "main.js": "/static/js/main.836829d1.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/Alkatra-VariableFont_wght.ttf": "/static/media/Alkatra-VariableFont_wght.bf8f60b0f1a7d5f397f3.ttf",
+    "static/media/Lora-Italic-VariableFont_wght.ttf": "/static/media/Lora-Italic-VariableFont_wght.e57ca7e1d79b1440d81c.ttf",
+    "static/media/f87c3242-fc12-4e6d-ac1a-e0a4d1d086d5.jpg": "/static/media/f87c3242-fc12-4e6d-ac1a-e0a4d1d086d5.1328d4d47fd5d46d9e56.jpg",
+    "index.html": "/index.html",
+    "main.bea20b0d.css.map": "/static/css/main.bea20b0d.css.map",
+    "main.836829d1.js.map": "/static/js/main.836829d1.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea20b0d.css",
+    "static/js/main.836829d1.js"
+  ]
+}
